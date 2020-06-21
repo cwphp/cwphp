@@ -1,0 +1,15 @@
+{
+    "name": "cwphp/cwphp",
+    "authors": [
+        {
+            "name": "cwphp",
+            "email": "cwphp@qq.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.2",
+        "phalcon/zephir": "^0.12.19",
+        "codedungeon/phpunit-result-printer": "^0.27.0"
+    }
+}
